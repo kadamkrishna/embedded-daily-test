@@ -1,0 +1,118 @@
+C programming basics
+data types
+operators
+control statements
+functions
+arrays
+strings
+pointers
+pointer arithmetic
+double pointers
+structures
+unions
+enums
+typedef
+storage classes
+const keyword
+volatile keyword
+restrict keyword
+static vs extern
+bitwise operators
+bit masking
+endianness
+function pointers
+callbacks
+inline functions
+macros vs functions
+conditional compilation
+header files
+compilation process
+stack memory
+heap memory
+static memory
+memory leaks
+dangling pointers
+alignment and padding
+ISR-safe coding
+re-entrant code
+race conditions
+accessing memory-mapped registers
+MISRA-C guidelines
+C++ basics
+OOP concepts
+classes and objects
+inheritance
+polymorphism
+virtual functions
+constructors and destructors
+templates basics
+embedded C vs embedded C++
+assembly language basics
+instruction cycle
+RISC vs CISC
+registers
+embedded system definition
+characteristics of embedded systems
+embedded constraints
+embedded vs general-purpose systems
+bare-metal systems
+real-time systems
+hard real-time
+soft real-time
+firm real-time
+determinism
+latency
+throughput
+microprocessor vs microcontroller
+MCU internal blocks
+Harvard architecture
+Von-Neumann architecture
+reset types
+clock sources
+clock tree
+CPU core
+ALU
+program counter
+stack pointer
+memory map
+GPIO architecture
+bus architecture
+DMA basics
+8051 architecture
+PIC architecture
+AVR architecture
+ARM Cortex-M architecture
+Cortex-M0/M3/M4/M7 differences
+NVIC
+SysTick
+ROM
+Flash memory
+SRAM
+EEPROM
+cache basics
+program memory vs data memory
+power-on reset sequence
+startup code
+vector table
+bootloader basics
+firmware update concepts
+UART protocol
+SPI protocol
+I2C protocol
+RTOS fundamentals
+FreeRTOS basics
+debugging techniques
+JTAG
+SWD
+watchdog timer
+embedded software architecture
+HAL
+BSP
+device drivers
+state machines
+finite state machines
+unit testing
+integration testing
+system testing
+career goals
+learning new microcontrollers
